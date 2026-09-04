@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**Sanjusree488/Sanjusree488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sanjusree 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (Artificial Intelligence & Data Science) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Aspiring AI & Data Science Professional
+
+🌱 Currently learning Python, Data Science and Machine Learning.
+
+## 🚀 My Goals
+
+- Build real-world projects
+- Improve my programming skills
+- Learn Artificial Intelligence and Machine Learning
+- Explore Data Science
+- Prepare for internships and placements
+- Contribute to open-source projects
+
+## 📚 Currently Learning
+
+- Python 🐍
+- Data Structures & Algorithms
+- Data Science
+- Machine Learning
+- Git & GitHub
+
+## 💻 Projects
+
+I'm currently learning and building my first projects.  
+More projects coming soon! 🚀
+
+## 📫 Connect With Me
+
+- GitHub: @Sanjusree488
+- LinkedIn: https://www.linkedin.com/in/sanjusree-anumandla-ab89b4432
+
+---
+
+⭐ Thanks for visiting my profile! 
